@@ -36,6 +36,7 @@ The goal of this simulated engagement is to design an Azure modernization roadma
 - Create a phased roadmap for adoption.
 
 ## Target-State Architecture
+![Target-State Architecture](architecture/target-state-architecture.png)
 
 The proposed target state includes:
 
@@ -72,6 +73,9 @@ This project is organized around Microsoft architecture guidance.
 - Cost Optimization
 - Operational Excellence
 - Performance Efficiency
+- 
+## Migration Roadmap
+![Migration Roadmap](architecture/migration-roadmap.png)
 
 ## Deliverables
 
